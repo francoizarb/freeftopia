@@ -15,6 +15,15 @@ In this example, we see that contribution and evaluation are closely related. Wh
 
 ## Four types of contributions
 
+Maybe we can take for driver something like (from Demings PDCA + project management process)
+- Planification : project specification (> to add to your 4 steps, or is it included in Decision?)
+- Realisation
+- Control / Evaluation 
+- Discussions (= project management process ?) : Communication, information diffusion, interpersonnal relations management, conflicts management, meetings planification and organization
+- Decision (> see planification?)
+so maybe just different words, same meaning ?  
+
+
 ### Realisation 
 
 Different types of realisation (non-exhaustive list!):
@@ -27,7 +36,7 @@ Different types of realisation (non-exhaustive list!):
 | Programming | Text editor<br>Git | Code optimization<br>Comments<br>Modularity  | Code efficiency |  
   
 
-
+I put on this repository a document with my note of our meeting on contributions evaluation : there is a brief description of a Ftopia process, that can perhaps help to set this "realisation" contribution types ? 
 
 
 ### Decisions 
