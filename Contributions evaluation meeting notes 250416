@@ -1,0 +1,52 @@
+160425 Reflexion contributions reward model / VAS
+
+mardi 24 mai 2016
+19:03
+
+PhH, Karine Durand-Garçon, GP, Françoise Arbelot
+
+Pour exemple concret : Process Ftopia : 
+	- Rq : 
+		○ En amont : identification des besoins clients, discussions, identification des devts dans la roadmap … 
+		○ 1 outil support de gestion de la chaîne de développement, tests automatisés etc … 
+	
+	- Développement EPIC = macro fonctionnalité
+	Ex = gestion des groupes ds Ftop (donner des droits via des groupes) : rassembler individus, nommer groupes, donner droits … 
+		○ Spécifier
+		○ Design (définir itf, design graphique, maquettes …)
+		○ Dévt : découpé en "user stories" (actions) - dévt du code
+		○ Code review / x itérations / "poussé" pour le test sur le référentiel
+		○ Passage en test automatique puis poussé sur serveur de test "humain"
+		○ Tests "humains"
+		○ Selon sensibilité de la fonctionnalité : béta test (par clients)
+		○ Passe en prod
+		○ Soutien communication / nouvelle fonctionnalité pour clients
+	
+	- Il faudra ensuite se poser la question pour l'ensemble des autres process, support notamment
+	
+Contribution = terme à définir, pas la même compréhension pour tous : travail du contributeur / projet …
+	Ø contribution de l'équipe = plus porteur de sens dans le cadre de DAO ? 
+
+Evaluation : 
+Préalable : But = équité (plus qu'égalité)
+
+	1. Contribution individuelle dans 1 contribution EPIC 
+	 (cf ex. cocoon) 
+	Proposition : 
+		○ moyenne des évaluations des tâches ou contributions de chacun faites par les membres de l'équipe > "split moyen pondéré collectif" 
+		Intérêt : développement de la cohésion ; 
+		question : l'intérêt tient-il dans une organisation ouverte (pas de stabilité des équipes a priori)
+		○ donner 1 cadre avec des % de références (benchmark) pour certains types d'EPIC
+		
+	2. Contribution EPIC dans la contribution totale de l'organisation
+		a. % par rapport aux autres contributions. 
+		○ Piste : même méthode qu'au niveau EPIC
+		○ Autre ?
+		
+		b. Evaluation de la contribution globale de l'organisation : 
+		Proposition : 
+		○ Accroissement des revenus (CA) sur 1 période affecté aux contributeurs
+
+Token : 
+ 
+Envisager des types de token différents selon les droits associés : Equity, droits de gouvernance … selon les différents « cercles » d’influence (pour ne pas parler de pouvoir)
